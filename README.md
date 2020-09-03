@@ -1,2 +1,2 @@
-# HASTABLE
+# HASHTABLE
 Explicacion de Hastable
